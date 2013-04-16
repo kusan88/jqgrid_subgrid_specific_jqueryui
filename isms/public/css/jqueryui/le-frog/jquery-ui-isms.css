@@ -1,0 +1,28 @@
+.ui-widget-header-pp-isms {
+	border: 1px solid #3f7506;
+	background: #3a8104 url(images/ui-bg_highlight-soft_33_3a8104_1x100.png) 50% 50% repeat-x;
+	color: #ffffff;
+	font-weight: bold;
+}
+.ui-widget-header-pp-isms a {
+	color: #ffffff;
+}
+
+.ui-state-default-pp-isms,
+.ui-widget-content-pp-isms .ui-state-default-pp-isms,
+.ui-widget-header-pp-isms .ui-state-default-pp-isms {
+	border: 1px solid #45930b;
+	background: #4ca20b url(images/ui-bg_highlight-soft_60_4ca20b_1x100.png) 50% 50% repeat-x;
+	font-weight: normal;
+	color: #ffffff;
+}
+.ui-state-default-pp-isms a,
+.ui-state-default-pp-isms a:link,
+.ui-state-default-pp-isms a:visited {
+	color: #ffffff;
+	text-decoration: none;
+}
+
+.ui-state-default-pp-isms .ui-icon-pp-isms {
+	background-image: url(images/ui-icons_ffffff_256x240.png);
+}
